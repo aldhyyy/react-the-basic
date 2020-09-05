@@ -6,6 +6,7 @@ import Counter from "./components/Counter";
 
 /*
   Implementing render props pattern on react app
+  Use to share function from counter to other components
 */
 
 function App() {
