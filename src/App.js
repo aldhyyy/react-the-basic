@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <ClickCounter />
-      <HoverCounter />
+      <HoverCounter name="Viswas" />
     </div>
   );
 }
