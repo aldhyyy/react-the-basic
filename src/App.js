@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="App">
       <ClickCounter />
+      {/* this props will be pass to HOCComponent not in HoverCounter component */}
       <HoverCounter name="Viswas" />
     </div>
   );
